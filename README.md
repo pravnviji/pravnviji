@@ -27,4 +27,10 @@ I truly believe that technology and software development has the power to change
 
 <br>
 
+<div style="display: flex;flex-direction:column;">
+  
+[![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=pravnviji&show_icons=true&theme=merko)](https://github.com/pravnviji/github-readme-stats) &nbsp; &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pravnviji&theme=merko&layout=compact)](https://github.com/pravnviji/github-readme-stats)
+
+  </div>
 ‼️ Believe yourself, Never ever giveup !!!
