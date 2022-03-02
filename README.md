@@ -14,7 +14,7 @@ About Me &nbsp; 🚀 <br><br>
 I truly believe that technology and software development has the power to change people's lives for the better.
 
 <br>
-⚡ Technologies I love and use in my day-to-day life
+⚡ Technologies I 💓 and use in my day-to-day life
 
 <div style="display: inline_block">
   <br>
